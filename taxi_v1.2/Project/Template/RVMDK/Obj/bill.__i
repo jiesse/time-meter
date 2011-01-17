@@ -1,0 +1,1 @@
+-c --device DARMSTM -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I..\ -I..\..\..\Libraries\CMSIS\Core\CM3 -I..\..\..\Libraries\STM32F10x_StdPeriph_Driver\inc -I "C:\Keil\ARM\INC\ST\STM32F10x" -DUSE_STDPERIPH_DRIVER -DSTM32F10X_HD -DUSE_STM3210E_EVAL -o ".\Obj\bill.o" --omf_browse ".\Obj\bill.crf" --depend ".\Obj\bill.d" "Bill.c"

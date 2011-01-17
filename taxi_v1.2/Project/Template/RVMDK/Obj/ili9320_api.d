@@ -1,0 +1,10 @@
+.\Obj\ili9320_api.o: ili9320_api.c
+.\Obj\ili9320_api.o: ..\..\..\Libraries\CMSIS\Core\CM3\stm32f10x.h
+.\Obj\ili9320_api.o: ..\..\..\Libraries\CMSIS\Core\CM3\core_cm3.h
+.\Obj\ili9320_api.o: C:\Keil\ARM\RV31\INC\stdint.h
+.\Obj\ili9320_api.o: ..\..\..\Libraries\CMSIS\Core\CM3\system_stm32f10x.h
+.\Obj\ili9320_api.o: ..\stm32f10x_conf.h
+.\Obj\ili9320_api.o: ..\..\..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h
+.\Obj\ili9320_api.o: ..\..\..\Libraries\CMSIS\Core\CM3\stm32f10x.h
+.\Obj\ili9320_api.o: ..\..\..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h
+.\Obj\ili9320_api.o: ili9320.h
